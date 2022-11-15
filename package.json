@@ -1,0 +1,13 @@
+{
+  "name": "Wired-API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adler Kesley",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
